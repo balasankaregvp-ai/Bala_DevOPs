@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Hey Bala. How are you.
-=======
 Hey Bala. How do you do.
 
 This is my first file.
->>>>>>> aabbbf7682f8a3a1dfcacbe6b55c8c380de5e385
